@@ -1,4 +1,4 @@
-# Techonologies used in this project (the list may fill up in the future):
+## Techonologies used in this project (the list may fill up in the future):
 
 ## Frontend
   1. React
